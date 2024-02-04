@@ -1,0 +1,5 @@
+GET http://localhost:5000/hello
+GET http://localhost:5000/helloobj
+Accept : application/json
+GET http://localhost:5000/add/10/230
+GET http://localhost:5000/hello/chelsea
